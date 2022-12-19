@@ -64,9 +64,9 @@ https://github.com/2022M4T4-Inteli/Estacionados/blob/main/documentos/T4_G2_V5_In
 
 ## 🎬 Demonstração
 
-Uma demonstração gravada pode ser encontrada dentro da pasta "demonstração", na raíz do projeto.
+Uma demonstração gravada do projeto pode ser acessada a partir do seguinte link:
 
-Se preferir, também é possível, acessá-la a partir do seguinte link:
+https://drive.google.com/file/d/1klQSKsqTjQKb4oj-aVgq7lG8XSnnDEyQ/view
 
 
 ## 📋 Licença/License
