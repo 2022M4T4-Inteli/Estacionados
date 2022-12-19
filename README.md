@@ -23,35 +23,50 @@ A Estapar é a maior e mais reconhecida rede de estacionamentos da América Lati
 
 ## 📁 Estrutura de pastas
 
+|--> demonstração<br>
 |--> documentos<br>
-  &emsp;| --> outros <br>
-  &emsp;| T4_G2_V_3_0_0_IoTDocument.pdf<br>
-  &emsp;| T4_G2_V_3_0_0_Manual_de_instruções.pdf<br>
-  
+  &emsp;| --> outros <br> 	
+  &emsp;| T4_G2_V5_IoTDocument.pdf<br>
+  &emsp;| T4_G2_V5_Instruction_Manual.pdf<br>
 |--> src<br>
-  &emsp;|--> backend<br>
-  &emsp;|--> frontend<br>
-  &emsp;|--> hardware<br>
-
+  &emsp;|--> Circuito<br>
+  &emsp;|--> Web<br>
 | readme.md<br>
-| license.txt
 
-Dentre os arquivos presentes na raiz do projeto, definem-se:
+Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
 
 - <b>readme.md</b>: arquivo que serve como guia e explicação geral sobre o projeto (o mesmo que você está lendo agora).
 
-- <b>documentos</b>: aqui estarão todos os documentos do projeto. Há também uma pasta denominada <b>outros</b> onde estão presentes aqueles documentos complementares.
+- <b>demonstração</b>: aqui encontra-se um vídeo demonstrativo da solução construída.
 
-- <b>src</b>: todo o código fonte do produto produzido.
+- <b>documentos</b>: aqui estão todos os documentos do projeto, incluindo o manual de instruções. Há também uma pasta denominada <b>outros</b> onde estão presentes outros documentos complementares.
+
+- <b>src</b>: todo o código fonte criado para o desenvolvimento do projeto, incluindo os blocos de código do circuito, backend e frontend se aplicáveis.
+
+## 💻 Execução do projeto
+
+Um guia para a execução desse projeto pode ser encontrado no conteúdo do documento "Manual de Instruções", dentro da pasta "documentos".
+
+Se preferir, também é possível acessá-lo a partir do seguinte link:
+
+https://github.com/2022M4T4-Inteli/Estacionados/blob/main/documentos/T4_G2_V5_Instruction_Manual.pdf
 
 ## 🗃 Histórico de lançamentos
 
+* 5.0.0 - 16/12/2022
+    * Versão final.
 * 3.0.0 - 21/11/2022
     * Adição do suporte Wi-Fi, ajustes de diretórios e atualização no documento principal. Criação do manual de instruções.
 * 2.0.0 - 07/11/2022
     * Criação do bloco central da aplicação. Atualização no documento principal.
 * 1.0.0 - 22/10/2022
     * Primeira versão do documento. Análises iniciais.
+
+## 🎬 Demonstração
+
+Uma demonstração gravada pode ser encontrada dentro da pasta "demonstração", na raíz do projeto.
+
+Se preferir, também é possível, acessá-la a partir do seguinte link:
 
 
 ## 📋 Licença/License
@@ -63,3 +78,5 @@ Dentre os arquivos presentes na raiz do projeto, definem-se:
 Aqui estão as referências usadas no projeto:
 
 1. <https://creativecommons.org/share-your-work/>
+2. <https://www.estapar.com.br/sobre-estapar>
+3. <https://docs.arduino.cc/>
